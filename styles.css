@@ -1,0 +1,101 @@
+body{
+    
+    font-size: 90;
+}
+
+svg{
+    color: white;
+    size: 2cm;
+}
+
+p.uno{
+    color: teal;
+    font-family:"bebas neue";
+    font-size: 2.8cm;
+    font-style: italic;
+    text-align: center;
+}
+
+p.dos{
+    color: rgb(3, 78, 78);
+    font-family:"bebas neue";
+    font-size: 2.8cm;
+    font-style: italic;
+    text-align: center;
+}
+
+p.tres{
+    color: rgb(0, 48, 48);
+    font-family:"bebas neue";
+    font-size: 2.8cm;
+    font-style: italic;
+    text-align: center;
+}
+
+p.cuatro{
+    color: rgb(0, 12, 12);
+    font-family:"bebas neue";
+    font-size: 2.8cm;
+    font-style: italic;
+    text-align: center;
+}
+
+p.cinco{
+    color: teal;
+    font-family:"bebas neue";
+    font-size: 2.8cm;
+    font-style: italic;
+    text-align: center;
+}
+
+p.seis{
+    color: rgb(3, 78, 78);
+    font-family:"bebas neue";
+    font-size: 2.8cm;
+    font-style: italic;
+    text-align: center;
+}
+
+p.siete{
+    color: rgb(0, 48, 48);
+    font-family:"bebas neue";
+    font-size: 2.8cm;
+    font-style: italic;
+    text-align: center;
+}
+
+p.ocho{
+    color: rgb(0, 12, 12);
+    font-family:"bebas neue";
+    font-size: 2.8cm;
+    font-style: italic;
+    text-align: center;
+}
+
+h5{
+    color: rgb(241, 170, 226);
+    font-family:"bebas neue";
+    font-size: 2cm; 
+    text-align: left;
+}
+a{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif, light;
+    font-size: 0.80cm;
+    position: center;
+}
+
+nav{
+    size: 0.90cm;
+}
+
+p{
+    color: rgb(250, 168, 101);
+    font-family:"bebas neue";
+    font-size: 1cm;
+    text-align: right;
+}
+
+article{
+    line-height: 60px;
+    }
